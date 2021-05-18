@@ -1,0 +1,1 @@
+# parallel-algorithm-implementation-of-0-1-knapsack-problem-using-openMP
